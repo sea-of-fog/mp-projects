@@ -1,7 +1,0 @@
-standard-module-name-resolver: collection not found
-  for module path: plait/lang/reader
-  collection: "plait/lang"
-  in collection directories:
-   /home/krzysiu/.local/share/racket/8.11/collects
-   /usr/share/racket/collects/
-   ... [166 additional linked and package directories]
