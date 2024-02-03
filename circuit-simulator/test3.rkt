@@ -1,5 +1,5 @@
 #lang racket
-(require "solution.rkt")
+(require "circuit-simulator.rkt")
 (require rackunit)
 
 ; test to see if the algorithm loops

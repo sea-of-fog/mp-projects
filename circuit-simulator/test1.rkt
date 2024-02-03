@@ -1,5 +1,5 @@
 #lang racket
-(require "solution.rkt")
+(require "circuit-simulator.rkt")
 (require rackunit)
 
 ; prosty test - sprawdza działanie anda
